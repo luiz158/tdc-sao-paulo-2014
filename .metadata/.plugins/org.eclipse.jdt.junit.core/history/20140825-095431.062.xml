@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="OptionalTest (1)" project="fj91-guava-project" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.fj91.guava.optional.OptionalTest" time="0.0">
+    <testcase name="shouldIndicateThatIntegerIsPresent" classname="com.fj91.guava.optional.OptionalTest" time="0.0"/>
+    <testcase name="shouldReturnIntegerValue" classname="com.fj91.guava.optional.OptionalTest" time="0.0"/>
+  </testsuite>
+</testrun>

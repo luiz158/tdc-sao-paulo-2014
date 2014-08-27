@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;mokedList&apos; in &apos;br.com.mockito.testes.ArgumentMatcher.test_argument_matcher()&apos; to &apos;mockedList&apos;&#x0A;- Original project: &apos;mockito&apos;&#x0A;- Original element: &apos;br.com.mockito.testes.ArgumentMatcher.test_argument_matcher().mokedList&apos;&#x0A;- Renamed element: &apos;mokedList&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;mokedList&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;br.com.mockito.testes{ArgumentMatcher.java[ArgumentMatcher~test_argument_matcher@mokedList!289!334!300!308!QLinkedList;!0!false" name="mockedList" references="true" stamp="1396371360872" version="1.0"/>
+</session>

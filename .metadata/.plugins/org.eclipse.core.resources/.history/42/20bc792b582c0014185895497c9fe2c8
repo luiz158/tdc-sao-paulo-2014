@@ -1,0 +1,32 @@
+package com.fj91.guava.optional;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+import com.google.common.base.Optional;
+
+public class OptionalTest {
+
+	@Test
+	public void shouldReturnIntegerValue() throws Exception {
+		Optional<Integer> possible = Optional.of(5);
+		
+		assertEquals(5, possible.get(), 0);
+	}
+	
+	@Test
+	public void shouldIndicateThatIntegerIsPresent() throws Exception {
+		Optional<Integer> possible = Optional.of(5);
+		
+		assertTrue(possible.isPresent());
+	}
+	
+	@Test
+	public void shouldIndicateThatIntegerIsNotPresent() throws Exception {
+		Optional<Integer> possible = Optional.absent();
+		
+		assertFalse(possible.isPresent());
+	}
+	
+}

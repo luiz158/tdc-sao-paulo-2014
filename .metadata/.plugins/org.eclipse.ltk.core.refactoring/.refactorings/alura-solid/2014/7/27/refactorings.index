@@ -1,0 +1,12 @@
+1404250112433	Encapsulate field 'cargo'
+1404250163771	Encapsulate field 'salario'
+1404250346818	Rename local variable 'salario'
+1404250457013	Encapsulate field 'cargo'
+1404253268572	Delete element
+1404253275181	Rename package 'br.com.alura.solid.acoplamento'
+1404253280046	Rename package 'br.com.alura.acoplamento'
+1404253475564	Rename method 'gera'
+1404253479224	Rename method 'geraNotaFiscal'
+1404253590646	Rename type 'AcoesAposGerarNota'
+1404414315171	Rename field 'boletos'
+1404414585822	Rename local variable 'b'

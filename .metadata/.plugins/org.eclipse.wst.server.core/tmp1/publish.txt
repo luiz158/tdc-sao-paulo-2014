@@ -1,0 +1,13 @@
+#GlassFish 3
+#Tue Aug 26 00:25:59 BRT 2014
+org.eclipse.jst.jee.server\:tdc=/Users/alexandregama/Documents/libs/glassfish4/glassfish4/glassfish/domains/domain1/eclipseApps/tdc
+org.eclipse.jst.jee.server\:tdc-cdi-estudo=/Users/alexandregama/Documents/libs/glassfish4/glassfish4/glassfish/domains/domain1/eclipseApps/tdc-cdi-estudo
+org.eclipse.jst.jee.server\:fj91-cdi-project=/Users/alexandregama/Documents/libs/glassfish4/glassfish4/glassfish/domains/domain1/eclipseApps/fj91-cdi-project
+org.eclipse.jst.j2ee.server\:livraria=/Users/alexandregama/Documents/libs/glassfish4/glassfish4/glassfish/domains/domain1/eclipseApps/livraria
+org.eclipse.jst.jee.server\:cdi-project=/Users/alexandregama/Documents/libs/glassfish4/glassfish4/glassfish/domains/domain1/eclipseApps/cdi-project
+org.eclipse.jst.jee.server\:tdc-cdi-7=/Users/alexandregama/Documents/libs/glassfish4/glassfish4/glassfish/domains/domain1/eclipseApps/tdc-cdi-7
+org.eclipse.jst.jee.server\:tdc-cdi-6=/Users/alexandregama/Documents/libs/glassfish4/glassfish4/glassfish/domains/domain1/eclipseApps/tdc-cdi-6
+org.eclipse.jst.jee.server\:tdc-cdi-5=/Users/alexandregama/Documents/libs/glassfish4/glassfish4/glassfish/domains/domain1/eclipseApps/tdc-cdi-5
+org.eclipse.jst.jee.server\:tdc-cdi-3=/Users/alexandregama/Documents/libs/glassfish4/glassfish4/glassfish/domains/domain1/eclipseApps/tdc-cdi-3
+org.eclipse.jst.jee.server\:tdc-cdi-2=/Users/alexandregama/Documents/libs/glassfish4/glassfish4/glassfish/domains/domain1/eclipseApps/tdc-cdi-2
+org.eclipse.jst.jee.server\:tdc-cdi-1=/Users/alexandregama/Documents/libs/glassfish4/glassfish4/glassfish/domains/domain1/eclipseApps/tdc-cdi-1

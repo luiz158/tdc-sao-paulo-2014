@@ -1,0 +1,5 @@
+package com.fj91.guava.optional;
+
+public class OptionalTest {
+
+}

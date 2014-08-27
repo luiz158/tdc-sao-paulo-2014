@@ -1,0 +1,12 @@
+1398169333618	Rename type 'CalculadoraDeSalarios'
+1398169574834	Copy compilation unit
+1398255417967	Rename type 'CalculadoraDeSalarios'
+1398291800348	Rename type 'GeradorRelatorio'
+1398292162224	Rename field 'geradorRelatorio'
+1398292717685	Extract local variable 'select'
+1398292729636	Rename local variable 'select'
+1398294057378	Rename type 'TestaInjectGenerico'
+1398294250597	Rename type 'PessoaDao'
+1398339222939	Extract local variable 'myLogger'
+1398339225348	Convert local variable 'myLogger' to field
+1398339829440	Rename type 'MyLogger'

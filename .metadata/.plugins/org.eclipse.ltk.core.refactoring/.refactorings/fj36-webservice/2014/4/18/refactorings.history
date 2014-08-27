@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;string&apos; in &apos;br.com.caelum.estoque.ws.AutorizacaoException.AutorizacaoException(...)&apos; to &apos;message&apos;&#x0A;- Original project: &apos;fj36-webservice&apos;&#x0A;- Original element: &apos;br.com.caelum.estoque.ws.AutorizacaoException.AutorizacaoException(String).string&apos;&#x0A;- Renamed element: &apos;string&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;string&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;br.com.caelum.estoque.ws{AutorizacaoException.java[AutorizacaoException~AutorizacaoException~QString;@string!119!131!126!131!QString;!0!true" name="message" references="true" stamp="1398901980702" version="1.0"/>
+</session>

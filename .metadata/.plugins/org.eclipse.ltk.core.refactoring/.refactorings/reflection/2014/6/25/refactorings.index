@@ -1,0 +1,16 @@
+1402957591268	Rename type 'TestModifiers'
+1402957608343	Rename package 'com.caelum.reflection.modifier'
+1402958552101	Delete element
+1402958878977	Rename local variable 'clazzName'
+1402958883979	Rename local variable 'clazzName'
+1402958888376	Rename local variable 'clazzName'
+1402959025527	Rename local variable 'list'
+1402959030836	Rename local variable 'listClass'
+1403356536784	Copy file
+1403356649062	Convert local variable 'properties' to field
+1403358668184	Copy file
+1403358887862	Rename type 'ProviderImplementation'
+1403359278416	Rename local variable 'interf'
+1403359432758	Rename local variable 'string'
+1403359551735	Rename local variable 'string'
+1403362277486	Extract local variable 'newInstance'

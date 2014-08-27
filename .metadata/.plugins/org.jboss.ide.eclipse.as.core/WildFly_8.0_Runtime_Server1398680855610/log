@@ -1,0 +1,549 @@
+!SESSION 2014-04-28 07:25:31.794 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/alexandregama/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/alexandregama/.eclipse_keyring -showlocation
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-04-28 07:27:51.898
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-04-28 07:28:24.488
+!MESSAGE Server Startup Succeeded
+!SESSION 2014-04-29 08:02:51.899 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/alexandregama/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -data /Users/alexandregama/workspace-caelum -product org.eclipse.epp.package.jee.product -keyring /Users/alexandregama/.eclipse_keyring -showlocation
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-04-29 08:11:41.854
+!MESSAGE Module fj36-webservice published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-04-29 08:11:58.443
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-04-29 08:12:28.544
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-04-29 08:14:29.686
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-04-29 08:14:38.827
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-04-29 08:14:43.872
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-04-29 08:15:21.150
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-04-29 08:15:24.276
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-04-29 08:15:29.743
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-04-29 08:25:13.048
+!MESSAGE Server processes have been terminated.
+!SESSION 2014-04-30 06:55:54.601 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/alexandregama/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data /Users/alexandregama/workspace-caelum -product org.eclipse.epp.package.jee.product -keyring /Users/alexandregama/.eclipse_keyring -showlocation
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-04-30 07:32:53.729
+!MESSAGE Module fj36-webservice published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-04-30 07:32:55.383
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-04-30 07:33:22.954
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-04-30 07:40:48.657
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-04-30 07:40:51.424
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-04-30 07:40:55.405
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-04-30 07:41:06.202
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-04-30 08:40:23.005
+!MESSAGE Server processes have been terminated.
+!SESSION 2014-04-30 10:24:07.624 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/alexandregama/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data /Users/alexandregama/workspace-caelum -product org.eclipse.epp.package.jee.product -keyring /Users/alexandregama/.eclipse_keyring -showlocation
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-04-30 20:55:43.369
+!MESSAGE 2 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-04-30 20:55:59.697
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-04-30 20:58:03.814
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-04-30 21:18:02.296
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-04-30 21:18:03.051
+!MESSAGE Server processes have been terminated.
+!SESSION 2014-05-02 06:39:30.431 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/alexandregama/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data /Users/alexandregama/workspace-caelum -product org.eclipse.epp.package.jee.product -keyring /Users/alexandregama/.eclipse_keyring -showlocation
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-02 08:31:09.932
+!MESSAGE 2 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-02 08:31:12.143
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-02 08:31:40.223
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-02 08:33:19.531
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-02 08:34:15.927
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-02 08:34:22.456
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-02 08:34:55.311
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-02 08:34:59.616
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-02 08:35:16.896
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-02 08:35:18.793
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-02 08:35:33.116
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-02 08:35:33.937
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-02 08:35:40.899
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-02 08:39:09.340
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-02 08:39:57.360
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-02 08:39:58.183
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-02 08:40:04.034
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-02 08:42:23.243
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-02 08:42:26.713
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-02 08:42:32.164
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-02 09:23:05.883
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-03 07:41:38.682
+!MESSAGE Server processes have been terminated.
+!SESSION 2014-05-05 19:51:07.577 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/alexandregama/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/alexandregama/.eclipse_keyring -showlocation
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 09:19:07.002
+!MESSAGE Module brejaonline published without error.
+
+!ENTRY unknown 0 0 2014-05-07 09:19:07.071
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-07 09:19:11.105
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-07 09:19:33.502
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-07 09:20:17.121
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 09:20:36.456
+!MESSAGE Module brejaonline published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-07 09:20:41.520
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-07 09:20:47.070
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-07 09:21:14.471
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 09:21:28.827
+!MESSAGE Module brejaonline published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-07 09:25:07.531
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-07 09:25:13.086
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 09:27:32.569
+!MESSAGE 1 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 09:27:34.588
+!MESSAGE 1 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2014-05-07 09:27:38.680
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-07 09:27:38.872
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-07 09:27:39.694
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-07 09:27:45.149
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 09:31:51.367
+!MESSAGE 1 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-07 09:31:51.578
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-07 09:31:54.305
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-07 09:31:59.774
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 09:39:13.643
+!MESSAGE 1 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 09:40:02.223
+!MESSAGE 1 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 09:40:34.695
+!MESSAGE 4 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 09:40:46.470
+!MESSAGE 8 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 09:40:55.494
+!MESSAGE 1 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 09:41:19.064
+!MESSAGE 1 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 09:42:12.284
+!MESSAGE 1 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 09:42:19.434
+!MESSAGE 1 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 09:42:46.240
+!MESSAGE 1 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 09:43:01.411
+!MESSAGE 1 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 09:43:17.423
+!MESSAGE 2 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 09:43:19.445
+!MESSAGE 1 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 09:43:30.870
+!MESSAGE 1 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2014-05-07 09:43:34.923
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-07 09:43:35.030
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-07 09:43:35.847
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-07 09:43:41.297
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 10:06:15.138
+!MESSAGE 1 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 10:07:35.687
+!MESSAGE 1 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 10:07:59.197
+!MESSAGE 1 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 10:08:15.792
+!MESSAGE 1 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 10:08:17.819
+!MESSAGE 1 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2014-05-07 10:11:24.151
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-07 10:11:24.255
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-07 10:11:25.088
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-07 10:11:30.842
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-07 10:15:55.870
+!MESSAGE 1 files modified in module brejaonline
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-07 10:15:56.719
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-07 10:15:59.528
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-07 10:16:04.977
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-08 06:24:35.674
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 06:25:09.759
+!MESSAGE Module fj36-webservice published without error.
+
+!ENTRY unknown 0 0 2014-05-08 06:25:09.765
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-08 06:25:12.684
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-08 06:25:20.050
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 06:32:59.257
+!MESSAGE 9 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 06:33:25.237
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 06:33:30.152
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 06:34:22.187
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 06:34:44.840
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 06:36:58.254
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 06:37:56.240
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 06:38:01.184
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 06:38:06.880
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-08 06:39:50.869
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-08 06:39:54.169
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-08 06:39:59.619
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-08 06:40:19.618
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 06:40:36.706
+!MESSAGE 12 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-08 06:40:37.523
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-08 06:40:42.977
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-08 06:56:30.223
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 06:56:47.586
+!MESSAGE 3 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-08 06:56:48.406
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-08 06:56:53.855
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 06:57:03.560
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-08 06:57:05.097
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 06:57:21.078
+!MESSAGE 10 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-08 06:57:21.954
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-08 06:57:27.425
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 06:58:54.875
+!MESSAGE 10 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 07:04:36.120
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 07:07:33.029
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 07:07:35.629
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 07:08:42.255
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 07:08:52.550
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-08 07:09:05.079
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 07:11:46.374
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-08 07:11:47.197
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-08 07:11:52.649
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 07:13:28.267
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 07:13:39.223
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 07:13:41.239
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 07:14:22.075
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-08 07:14:24.105
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-09 06:50:20.459
+!MESSAGE 3 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-09 06:50:27.548
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-09 07:35:22.207
+!MESSAGE 2 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-09 07:35:23.104
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-09 07:35:33.899
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-09 07:39:01.391
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-09 07:39:02.105
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-09 07:39:04.743
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-09 07:39:10.898
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-09 07:49:39.674
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-09 07:50:03.346
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2014-05-09 07:50:28.579
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-09 07:50:28.732
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-09 07:50:29.560
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-09 07:50:35.714
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-09 07:50:57.538
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-09 07:50:57.946
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-09 07:51:00.723
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-09 07:51:06.571
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-05-09 07:52:51.560
+!MESSAGE 1 files modified in module fj36-webservice
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2014-05-09 07:53:08.575
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-09 07:53:08.712
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-05-09 07:53:09.527
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-05-09 07:53:15.782
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-05-09 08:17:45.413
+!MESSAGE Server processes have been terminated.

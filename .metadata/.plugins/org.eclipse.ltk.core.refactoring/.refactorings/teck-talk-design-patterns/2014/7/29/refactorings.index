@@ -1,0 +1,19 @@
+1405462016725	Encapsulate field 'valorTotal'
+1405462030575	Encapsulate field 'desconto'
+1405462260900	Encapsulate field 'usuarioLogado'
+1405462429547	Copy compilation unit
+1405462749787	Rename package 'br.com.elo7.pattern'
+1405543054745	Rename package 'br.com.elo7.pattern'
+1405543227147	Rename local variable 'conteudoAccess'
+1405543338526	Rename type 'ImprimeRelatorio'
+1405543517236	Rename local variable 'conteudo'
+1405545793838	Rename package 'br.com.elo7.pattern'
+1405545799854	Rename package 'br.com.elo7.templatem'
+1405545837110	Rename type 'TestaPatternMaroto'
+1405545963950	Extract method 'fazMaracutaiasNoFinanceiro'
+1405545970986	Extract method 'fazMaracutaisNoEstoque'
+1405545978805	Extract method 'enviaEmailDeSucesso'
+1405546533545	Rename package 'br.com.elo7.patternmaroto'
+1405547781043	Rename type 'EnviadorDeEmail'
+1405632032679	Delete elements
+1405633467386	Delete elements

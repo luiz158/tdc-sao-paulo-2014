@@ -1,0 +1,10 @@
+1399369323519	Rename local variable 'writer'
+1399370436504	Rename local variable 'writer'
+1399372442119	Rename method 'getCervejas'
+1399372536996	Rename local variable 'cervejas'
+1399372587285	Rename local variable 'listarCervejas'
+1399378552240	Rename method 'listarCervejas'
+1399379352701	Rename method 'adicionaLista'
+1399379828614	Inline local variable 'out'
+1399379835575	Inline local variable 'out'
+1399466433517	Copy package

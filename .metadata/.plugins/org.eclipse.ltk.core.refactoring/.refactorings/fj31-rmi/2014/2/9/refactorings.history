@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;RegistraCarrinho.java&apos; to &apos;fj31-rmi/src/br.com.caelum.fj31.carrinho.rmi&apos;&#x0A;- Original project: &apos;fj31-rmi&apos;&#x0A;- Destination element: &apos;fj31-rmi/src/br.com.caelum.fj31.carrinho.rmi&apos;&#x0A;- Original element: &apos;br.com.caelum.fj31.carrinho.rmi.RegistraCarrinho.java&apos;" description="Copy compilation unit" destination="/src&lt;br.com.caelum.fj31.carrinho.rmi" element1="/src&lt;br.com.caelum.fj31.carrinho.rmi{RegistraCarrinho.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1393278148626" units="1" version="1.0"/>
+</session>

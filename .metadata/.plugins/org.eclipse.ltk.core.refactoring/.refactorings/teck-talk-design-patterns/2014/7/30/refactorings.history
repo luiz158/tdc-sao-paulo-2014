@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;br.com.elo7.pattern&apos; to &apos;br.com.elo7.decorator&apos;&#x0A;- Original project: &apos;teck-talk-design-patterns&apos;&#x0A;- Original element: &apos;teck-talk-design-patterns/src/br.com.elo7.pattern&apos;&#x0A;- Renamed element: &apos;teck-talk-design-patterns/src/br.com.elo7.decorator&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;br.com.elo7.pattern&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;br.com.elo7.pattern" name="br.com.elo7.decorator" qualified="false" references="true" stamp="1405937359135" textual="false" version="1.0"/>
+</session>

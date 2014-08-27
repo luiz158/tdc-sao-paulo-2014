@@ -1,0 +1,16 @@
+1407362307098	Rename field 'calculadoraManual'
+1407362399190	Rename field 'calculadoraAutomatico'
+1407362513948	Rename local variable 'freteManual'
+1407362942340	Copy compilation unit
+1407363170120	Rename type 'CalculadoraDeDescontoAutomatico'
+1407363184967	Copy compilation unit
+1407363191807	Delete element
+1407363196539	Rename type 'CalculadoraSincronaDeDescontoAutomatico'
+1407363204500	Copy compilation unit
+1407363214971	Rename type 'CalculadoraDeFreteAutomatico'
+1407363302414	Rename type 'CalculadoraSincronaDeFreteAutomatico'
+1407365239803	Copy compilation unit
+1407365253904	Copy compilation unit
+1407365529675	Rename field 'calculadoraDeDesconto'
+1407366304313	Extract local variable 'itemComprado'
+1407372380822	Copy file

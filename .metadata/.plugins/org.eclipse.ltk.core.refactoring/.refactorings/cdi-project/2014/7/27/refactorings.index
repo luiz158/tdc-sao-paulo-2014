@@ -1,0 +1,12 @@
+1404207103901	Rename type 'CadastraUsuario'
+1404207113665	Rename type 'CadastraUsuarioServlet'
+1404207540784	Rename type 'EmpregaFuncionario'
+1404207552208	Rename field 'empregaFuncionario'
+1404207564888	Rename local variable 'empregaFuncionario'
+1404207688100	Rename field 'sistemaFuncionario'
+1404208748611	Rename method 'retiraEmpregado'
+1404208948140	Delete element
+1404209084379	Rename field 'demissaoEmpregado'
+1404209087482	Rename field 'aposentadoriaEmpregado'
+1404255493846	Rename type 'TipoDemissao'
+1404255625020	Rename method 'tipoDemissao'

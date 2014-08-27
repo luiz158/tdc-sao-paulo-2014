@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;livro&apos; in &apos;br.com.caelum.livraria.cliente.ClienteCarrinhoLivraria.main(...)&apos; to &apos;refactoring&apos;&#x0A;- Original project: &apos;fj31-livraria&apos;&#x0A;- Original element: &apos;br.com.caelum.livraria.cliente.ClienteCarrinhoLivraria.main(String[]).livro&apos;&#x0A;- Renamed element: &apos;livro&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;livro&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;br.com.caelum.livraria.cliente{ClienteCarrinhoLivraria.java[ClienteCarrinhoLivraria~main~\[QString;@livro!477!502!483!487!QLivro;!0!false" name="refactoring" references="true" stamp="1392394490032" version="1.0"/>
+</session>

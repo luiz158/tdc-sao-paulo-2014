@@ -1,0 +1,23 @@
+1403572933245	Rename package 'main.java.br.com.caelum.vraptor.dao'
+1403572939321	Rename package 'main.java.br.com.caelum.vraptor.controller'
+1403572944925	Rename package 'main.java.br.com.caelum.vraptor.model'
+1403572949301	Rename package 'main.java.br.com.caelum.vraptor.observers'
+1403572956975	Rename package 'main.java.br.com.caelum.vraptor.util'
+1403644225652	Delete element
+1403644228693	Delete element
+1403645523927	Copy file
+1403645586574	Delete element
+1403645904882	Copy file
+1403646874257	Copy file
+1403648002634	Copy file
+1403648226052	Extract local variable 'em'
+1403648231417	Rename local variable 'em'
+1403648929590	Copy file
+1403648934735	Rename resource 'adiciona'
+1403648945403	Rename resource 'adiciona.sjp'
+1403650144160	Copy file
+1403819479877	Rename field 'produtoDao'
+1403819581874	Rename local variable 'produtoDao'
+1403822393849	Rename type 'EntityManagerFactoryProduces'
+1403822467008	Rename type 'JPAUtil'
+1403864751073	Rename type 'TransacionalInterceptor'

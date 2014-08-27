@@ -1,0 +1,24 @@
+1406597102794	Rename type 'ImprimeRelatorio'
+1406683713719	Delete elements
+1406685130743	Rename local variable 'comAssinatura'
+1406685138721	Rename local variable 'comAssinatura'
+1406685459187	Delete element
+1406749915177	Delete element
+1406750990648	Delete elements
+1406751146175	Encapsulate field 'valor'
+1406751508699	Rename local variable 'pagamentoMoip'
+1406751513251	Rename local variable 'pagamentoPayPal'
+1406752220691	Rename type 'Estoque'
+1406753265386	Delete element
+1406754484431	Delete elements
+1406754822520	Copy compilation unit
+1406754832153	Delete element
+1406754989568	Inline local variable 'relatorioEmPdf'
+1406755096802	Extract method 'imprimeHeader'
+1406755102333	Extract method 'imprimeFooter'
+1406755110101	Extract method 'imprimeConteudo'
+1406755290485	Delete element
+1406765662750	Encapsulate field 'nome'
+1406772069693	Delete elements
+1406772131997	Rename type 'TestaCalculoDescontoExtrea'
+1406772519605	Rename local variable 'emAprovacao'

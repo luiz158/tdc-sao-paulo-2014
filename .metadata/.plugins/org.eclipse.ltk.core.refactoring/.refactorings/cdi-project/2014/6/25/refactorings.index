@@ -1,0 +1,18 @@
+1403232735179	Rename package 'br.com.caelum.servlet'
+1403232765785	Move compilation units
+1403257773952	Rename type 'SimuladoraCalculoFolhaPagamento'
+1403258090795	Move compilation unit
+1403258100766	Move compilation unit
+1403258106485	Rename type 'CalcularFolhaDePagamento'
+1403258111636	Rename type 'IniciandoComCdi'
+1403258150371	Rename type 'CalculadoraDeSalario'
+1403258298057	Rename type 'CalculadoraDeSalarios'
+1403259174973	Rename type 'CalculadoraDeFerias'
+1403260001353	Copy compilation units
+1403260012976	Delete elements
+1403260050322	Rename type 'CalculadoraDeDescontos'
+1403299601180	Rename field 'simuladorDeDesconto'
+1403351011833	Delete elements
+1403354108254	Delete elements
+1403354185849	Rename local variable 'string'
+1403354398778	Copy compilation unit

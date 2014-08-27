@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;paginaNaoEhLogin&apos; from expression &apos;paginaAtual.contains(paginaDeLogin)&apos;&#x0A;- Original project: &apos;cdi-project&apos;&#x0A;- Variable name: &apos;paginaNaoEhLogin&apos;&#x0A;- Destination method: &apos;br.com.caelum.filter.FiltroAutenticacao.doFilter()&apos;&#x0A;- Variable expression: &apos;paginaAtual.contains(paginaDeLogin)&apos;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;paginaNaoEhLogin&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;br.com.caelum.filter{FiltroAutenticacao.java" name="paginaNaoEhLogin" replace="true" selection="1025 35" stamp="1403937910859" version="1.0"/>
+</session>

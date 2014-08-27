@@ -1,0 +1,26 @@
+1396358336887	Rename package 'br.com.alura.modelo'
+1396358354071	Rename type 'CalculadoraDeOrcamento'
+1396358390366	Encapsulate field 'valor'
+1396358691101	Rename method 'calculaImposto'
+1396359418344	Inline local variable 'valor'
+1396359531145	Rename method 'calculaImpostoICMS'
+1396359553042	Rename local variable 'valorCalculado'
+1396361270143	Inline local variable 'escolhido'
+1396363201003	Inline local variable 'valor'
+1396363269503	Rename method 'adiciona'
+1396439357261	Delete element
+1396441035931	Rename type 'DescontoPorValorDoOrcamento'
+1396441358600	Extract local variable 'd2'
+1396555357869	Rename method 'taxacaoForMinima'
+1396562474995	Rename local variable 'impostoCalculado'
+1396562477651	Inline local variable 'orcamento'
+1396633758414	Copy compilation unit
+1396633762973	Copy compilation units
+1396633765108	Copy compilation unit
+1396633830288	Copy compilation unit
+1396633943611	Delete elements
+1396633949066	Copy compilation unit
+1396633969480	Delete element
+1396633972146	Copy compilation unit
+1396634016087	Extract local variable 'icpp'
+1396634032555	Copy compilation unit

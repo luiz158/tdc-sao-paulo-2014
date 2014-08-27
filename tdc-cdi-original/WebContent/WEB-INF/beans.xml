@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	
+	<alternatives>
+		<class>br.com.elo7.qualifier.CalculadoraDeFreteGeral</class>
+	</alternatives>
+	
+	<interceptors>
+		<class>br.com.elo7.interceptor.MeuLoggerInterceptor</class>
+	</interceptors>
+	
+	<decorators>
+		<class>br.com.elo7.decorator1.TicketServiceDecorator</class>
+	</decorators>
+	
+</beans>

@@ -1,0 +1,4 @@
+1393432643485	Rename resource 'context'
+1393432690731	Move 1 resources to 'META-INF'
+1393433974819	Extract local variable 'url'
+1393537321393	Rename local variable 'accessToken'

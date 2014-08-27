@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;produto&apos; in &apos;decorator.ProdutoComposto.ProdutoComposto(...)&apos; to &apos;produtoOriginal&apos;&#x0A;- Original project: &apos;fj91-design-patterns-mundoj&apos;&#x0A;- Original element: &apos;decorator.ProdutoComposto.ProdutoComposto(Produto).produto&apos;&#x0A;- Renamed element: &apos;produto&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;produto&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;decorator{ProdutoComposto.java[ProdutoComposto~ProdutoComposto~QProduto;@produto!101!115!109!115!QProduto;!0!true" name="produtoOriginal" references="true" stamp="1403376866722" version="1.0"/>
+</session>

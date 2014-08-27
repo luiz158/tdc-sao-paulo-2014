@@ -1,0 +1,6 @@
+1404985083780	Rename method 'createInstance'
+1404985794697	Rename package 'br.com.caelum.reflection.betterprovider2'
+1404986119167	Extract method 'givenClassNameAndMethodName'
+1404986123630	Convert local variable 'className' to field
+1404986127781	Convert local variable 'methodName' to field
+1405130870970	Rename local variable 'valor'
